@@ -1,0 +1,3 @@
+package @PROJECT_ID@;
+
+public class @PROJECT_NAME@ extends org.libsdl.app.SDLActivity {}
